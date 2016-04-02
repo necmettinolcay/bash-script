@@ -2,8 +2,8 @@
 
 #set -x
 
-USER="redmine"
-PASSWORD="redmine123"
+USER=""
+PASSWORD=""
 HOST="localhost"
 DB_NAME="redmine"
 BACKUP_FILE="/srv/redmine.sql"
