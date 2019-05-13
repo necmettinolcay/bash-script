@@ -1,7 +1,7 @@
 #!/bin/bash
 
  
-GIT_REPO="git@lab.ozguryazilim.com.tr:redmine_plugins"
+GIT_REPO="git@l.example.com.tr:redmine_plugins"
 REDMINE_ROOT='/opt/redmine'
 PLUGIN_DIR="${REDMINE_ROOT}/plugins"
 PLUGIN=$1
